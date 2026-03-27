@@ -1,0 +1,33 @@
+aid: keepit
+name: Keepit
+description: >-
+  Keepit is a SaaS backup and recovery platform providing independent cloud-to-cloud data protection for Microsoft 365, Google Workspace, Salesforce, and other SaaS applications.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - SaaS Backup
+  - Data Protection
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/keepit/refs/heads/main/apis.yml
+created: '2026-03-27'
+modified: '2026-03-27'
+specificationVersion: '0.19'
+apis:
+  - aid: keepit:keepit
+    name: Keepit
+    description: >-
+      Keepit is a SaaS backup and recovery platform providing independent cloud-to-cloud data protection for Microsoft 365, Google Workspace, Salesforce, and other SaaS applications.
+    humanURL: https://www.keepit.com
+    tags:
+      - SaaS Backup
+    properties:
+      - type: Documentation
+        url: https://www.keepit.com/resources
+common:
+  - type: Website
+    url: https://www.keepit.com
+  - type: Documentation
+    url: https://www.keepit.com/resources
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
