@@ -34,6 +34,13 @@ common:
     url: https://www.keepit.com
   - type: Documentation
     url: https://www.keepit.com/resources
+  - type: Integrations
+    url: https://www.keepit.com/partners/
+integrations:
+  - name: Partner stories
+  - name: Partner locator
+  - name: Value added resellers
+  - name: Managed service providers
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
