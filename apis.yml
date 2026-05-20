@@ -30,6 +30,10 @@ apis:
       - type: SignUp
         url: https://www.keepit.com/free-trial/
 common:
+  - type: GitHubOrganization
+    url: https://github.com/keepit-official
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/keepit-a-s
   - type: Website
     url: https://www.keepit.com
   - type: Documentation
