@@ -40,6 +40,8 @@ common:
     url: https://www.keepit.com/resources
   - type: Integrations
     url: https://www.keepit.com/partners/
+  - type: LLMsTxt
+    url: https://www.keepit.com/llms.txt
 integrations:
   - name: Partner stories
   - name: Partner locator
