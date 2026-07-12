@@ -30,6 +30,10 @@ apis:
       - type: Signup
         url: https://www.keepit.com/free-trial/
 common:
+  - type: TrustCenter
+    url: security/keepit-trust-center.yml
+  - type: DomainSecurity
+    url: security/keepit-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/keepit-official
   - type: LinkedIn
@@ -42,6 +46,8 @@ common:
     url: https://www.keepit.com/partners/
   - type: LlmsText
     url: https://www.keepit.com/llms.txt
+  - url: https://www.keepit.com/blog/
+    type: Blog
 integrations:
   - name: Partner stories
   - name: Partner locator
