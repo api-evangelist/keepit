@@ -48,7 +48,6 @@ apis:
     description: >-
       Keepit is a SaaS backup and recovery platform providing independent cloud-to-cloud data protection for Microsoft 365, Google Workspace, Salesforce, and other SaaS applications.
     humanURL: https://www.keepit.com
-    baseURL: https://www.keepit.com
     tags:
       - SaaS Backup
       - Data Protection
