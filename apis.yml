@@ -57,6 +57,12 @@ apis:
       - type: Signup
         url: https://www.keepit.com/free-trial/
 common:
+  - type: Plans
+    url: plans/keepit-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/keepit-rate-limits.yml
+  - type: FinOps
+    url: finops/keepit-finops.yml
   - type: TrustCenter
     url: security/keepit-trust-center.yml
   - type: DomainSecurity
